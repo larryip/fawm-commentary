@@ -80,7 +80,7 @@ header p{
 	background: #FFB61E;
 }
 .webui-popover.right, .webui-popover.right-top, .webui-popover.right-bottom{
-	margin-left: 90px;
+	margin-left: 30px;
 }
 
 .webui-popover-inner{
