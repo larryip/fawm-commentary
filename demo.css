@@ -14,7 +14,10 @@ header h1{
 	margin-right: 380px;
 	font-size:36px;
 	line-height: 1;
-
+}
+header h1 a, header h1 a:hover{
+	text-decoration: none;
+	color: #5D8CAE;
 }
 h1 i{
 	font-size: 45px;
@@ -89,6 +92,10 @@ header p{
 }
 .webui-popover-inner p{
 	margin: 0.6875em 0;
+}
+.webui-popover-inner p a, .webui-popover-inner p a:hover{
+	text-decoration: none;
+	color: #5D8CAE;
 }
 .webui-popover-title{
 	display: none;
